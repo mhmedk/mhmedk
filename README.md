@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hello 👋
 
 #### I'm a Junior Front-end Developer from Orléans, France.
