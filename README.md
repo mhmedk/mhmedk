@@ -5,7 +5,6 @@
 ##### BIO
 
 - 🟨 I use daily `.js` and some `.php`
-- 🌍 I'm mostly active within the **ReactJS Community**
 - 🌱 I’m currently learning
 - 👒 I'm a huge fan of One Piece
 
@@ -15,14 +14,6 @@
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
     alt="react"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-    alt="babel"
     width="40"
     height="40"
   />
