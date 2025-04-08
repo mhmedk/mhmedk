@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mohammed
 
 ## 💻 About Me  
-I'm a **Web, iOS, and Android Developer** with a passion for building high-quality applications. I specialize in modern frameworks and technologies, focusing on **Next.js, React, and React Native**.  
+I'm a **Web App and Mobile App Developer** with a passion for building high-quality applications. I specialize in modern frameworks and technologies, focusing on **Next.js, React, and React Native**.  
 
 ## 🚀 Tech Stack  
 - **Frontend:** React, Next.js  
