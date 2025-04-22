@@ -4,10 +4,10 @@
 I'm a **Web App and Mobile App Developer** with a passion for building high-quality applications. I specialize in modern frameworks and technologies, focusing on **Next.js, React, and React Native**.  
 
 ## 🚀 Tech Stack  
-- **Frontend:** React, Next.js  
-- **Mobile:** React Native  
-- **Backend:** Node.js  
-- **Tools & Other:** Git  
+- **Frontend:** React, Next.js
+- **Mobile:** React Native
+- **Backend:** Node.js, Next.js
+- **Tools & Other:** Git, WebStorm, VSCode
 
 ## 🌍 Languages  
 I speak **French, English, and Arabic**.  
@@ -16,4 +16,4 @@ I speak **French, English, and Arabic**.
 - GitHub: [@mhmedk](https://github.com/mhmedk/mhmedk)
 - YouTube: comming...
 
-_"Creating with code and innovation."_  
+_"Creating with code"_
