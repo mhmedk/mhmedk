@@ -7,7 +7,7 @@ I'm a **Web App and Mobile App Developer** with a passion for building high-qual
 - **Frontend:** React, Next.js
 - **Mobile:** React Native
 - **Backend:** Node.js, Next.js
-- **Tools & Other:** Git, WebStorm, VSCode
+- **Tools & Other:** Git
 
 ## 🌍 Languages  
 I speak **French, English, and Arabic**.  
