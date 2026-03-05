@@ -8,11 +8,11 @@ Based in **Orléans, France** — available for freelance work.
 
 ## Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
-**Backend:** Node.js, Supabase, PostgreSQL
-**Mobile:** React Native, Expo
-**Payments:** Stripe
-**Deployment:** Vercel
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
+- **Backend:** Node.js, Supabase, PostgreSQL
+- **Mobile:** React Native, Expo
+- **Payments:** Stripe
+- **Deployment:** Vercel
 
 ## Projects
 
