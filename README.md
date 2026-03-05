@@ -1,19 +1,32 @@
-# Hi there! 👋 I'm Mohammed
+# Hi there! I'm Mohammed K.
 
-## 💻 About Me  
-I'm a **Web App and Mobile App Developer** with a passion for building high-quality applications. I specialize in modern frameworks and technologies, focusing on **Next.js, React, and React Native**.  
+## About Me
 
-## 🚀 Tech Stack  
-- **Frontend:** React, Next.js
-- **Mobile:** React Native
-- **Backend:** Node.js, Next.js
-- **Tools & Other:** Git
+Full-Stack Developer specializing in **React, Next.js, and React Native**. I build modern web and mobile applications for startups and SMBs.
 
-## 🌍 Languages  
-I speak **French, English, and Arabic**.  
+Based in **Orléans, France** — available for freelance work.
 
-## 📫 Let's Connect  
-- GitHub: [@mhmedk](https://github.com/mhmedk/mhmedk)
-- YouTube: comming...
+## Tech Stack
 
-_"Creating with code"_
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
+**Backend:** Node.js, Supabase, PostgreSQL
+**Mobile:** React Native, Expo
+**Payments:** Stripe
+**Deployment:** Vercel
+
+## Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [MyOPBinder](https://www.myopbinder.com) | One Piece TCG collection app with real-time price tracking | Next.js, TypeScript, Supabase |
+| [Easy Morocco](https://www.easy-morocco.com) | Travel platform for discovering Morocco | React, TypeScript, Supabase |
+| [High Riders](https://github.com/mhmedk/high-riders) | Community platform for extreme sports enthusiasts | React, Redux, Leaflet |
+
+## Languages
+
+French (native) — English (professional) — Arabic (native)
+
+## Contact
+
+- Portfolio: [mohammedk.dev](https://mohammedk.dev)
+- Email: mohammed.k.dev@gmail.com
